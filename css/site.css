@@ -62,13 +62,15 @@ ul,ol{list-style:none}
 .hero .mono{opacity:0;transform:scale(1.05);filter:grayscale(1);transition:opacity 3.2s,transform 12s}
 .hero .cor{opacity:0;transform:scale(1.05);transition:opacity 6s 1.2s,transform 12s}
 .hero.on .mono,.hero.on .cor{opacity:1;transform:none}
-.hero h1{position:absolute;z-index:20;left:0;width:100%;bottom:-1.1vw;text-align:center;white-space:nowrap;font-weight:700;font-size:12.3vw;line-height:.8;letter-spacing:.01em;color:#fff;text-transform:uppercase;opacity:0;transition:opacity 3s 1.2s}
+.hero h1{position:absolute;z-index:20;left:0;width:100%;bottom:3.2vw;text-align:center;white-space:nowrap;font-weight:700;font-size:11.6vw;line-height:.8;letter-spacing:.01em;color:#fff;text-transform:uppercase;opacity:0;transition:opacity 3s 1.2s}
 .hero.on h1{opacity:.6}
-.hero .desce{position:absolute;z-index:10;left:0;right:0;bottom:0;height:150px;background:linear-gradient(0deg,#000,transparent)}
+.hero .desce{position:absolute;z-index:10;left:0;right:0;bottom:0;height:30vh;background:linear-gradient(0deg,#000,transparent)}
 
 /* ---------- títulos de seção ---------- */
 .tit{display:inline-flex;align-items:flex-start}
-.tit h2{font-family:var(--gotica);font-weight:900;font-size:3.5rem;line-height:1;letter-spacing:0;writing-mode:vertical-rl;text-orientation:upright;text-transform:uppercase}
+.tit h2{font-family:var(--gotica);font-weight:900;font-size:3.5rem;line-height:1;letter-spacing:.0625rem;writing-mode:vertical-rl;text-orientation:upright}
+.tit h2 .sr{writing-mode:horizontal-tb}
+.tit .num em{display:block;font-style:normal;font-size:.8125rem;letter-spacing:.06em;margin-top:.5rem;writing-mode:vertical-rl;text-orientation:mixed}
 .tit .num{position:relative;padding-left:1.25rem;margin-left:1.25rem;opacity:.5;font-size:1rem}
 .tit .num::before{content:"";position:absolute;left:0;top:4px;width:1px;height:35px;background:currentColor;transform-origin:top;transform:scaleY(0);transition:transform 1s .3s var(--ease)}
 .vis .tit .num::before{transform:scaleY(1)}
@@ -146,6 +148,7 @@ ul,ol{list-style:none}
 .cab{background:#000;color:#fff;padding:9rem 0 3.6rem;border-bottom:1px solid #2a2a2a}
 .cab .wrap{display:flex;align-items:baseline;gap:3.5rem;max-width:none;padding:0 100px 0 206px}
 .cab h1{font-size:3.5rem;font-weight:700;line-height:1;letter-spacing:.0625rem}
+.cab h1 .kj{font-family:var(--gotica);font-weight:900;font-size:1.6rem;letter-spacing:.08em;margin-left:1.1rem;opacity:.4;vertical-align:.45em}
 .filtros{display:flex;gap:1.4rem;font-size:.8125rem;letter-spacing:.015625rem}
 .filtros button{opacity:.5;position:relative;transition:opacity .15s}
 .filtros button:hover,.filtros button.on{opacity:1}
@@ -236,7 +239,7 @@ ul,ol{list-style:none}
   .topo.ativo{height:50px}
   .marca{font-size:.8125rem}
   .menu li{font-size:2.25rem}
-  .hero h1{font-size:25vw;line-height:.8;white-space:normal;text-align:left;bottom:-2.4vw;padding-left:1vw}
+  .hero h1{font-size:21vw;line-height:.86;white-space:normal;text-align:left;bottom:7vw;padding-left:4vw}
   .hero img{object-position:50% 30%}
   .tit h2{font-size:3rem}
   .s1{padding:4rem 0 5rem}
