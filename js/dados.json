@@ -1,0 +1,343 @@
+{
+ "obras": [
+  {
+   "n": "003",
+   "c": "oriental",
+   "t": "Serpentes entrelaçadas"
+  },
+  {
+   "n": "069",
+   "c": "blackwork",
+   "t": "Lobo no abdômen"
+  },
+  {
+   "n": "016",
+   "c": "oriental",
+   "t": "Hannya e caveira"
+  },
+  {
+   "n": "067",
+   "c": "blackwork",
+   "t": "Corvo e espinhos"
+  },
+  {
+   "n": "029",
+   "c": "oriental",
+   "t": "Foo dog e contas"
+  },
+  {
+   "n": "098",
+   "c": "blackwork",
+   "t": "Besouro"
+  },
+  {
+   "n": "025",
+   "c": "oriental",
+   "t": "Buda"
+  },
+  {
+   "n": "076",
+   "c": "blackwork",
+   "t": "Rosto barbado"
+  },
+  {
+   "n": "019",
+   "c": "oriental",
+   "t": "Caveira nas ondas"
+  },
+  {
+   "n": "082",
+   "c": "blackwork",
+   "t": "Coração com olho"
+  },
+  {
+   "n": "028",
+   "c": "oriental",
+   "t": "Crisântemo"
+  },
+  {
+   "n": "068",
+   "c": "blackwork",
+   "t": "Crânio de tricerátops"
+  },
+  {
+   "n": "062",
+   "c": "oriental",
+   "t": "Caveira samurai"
+  },
+  {
+   "n": "126",
+   "c": "blackwork",
+   "t": "Adaga e borboleta"
+  },
+  {
+   "n": "097",
+   "c": "oriental",
+   "t": "Sapo nas nuvens"
+  },
+  {
+   "n": "077",
+   "c": "blackwork",
+   "t": "Águia"
+  },
+  {
+   "n": "116",
+   "c": "oriental",
+   "t": "Caveira e crisântemo"
+  },
+  {
+   "n": "101",
+   "c": "blackwork",
+   "t": "Mariposa e flores"
+  },
+  {
+   "n": "014",
+   "c": "oriental",
+   "t": "Serpente no antebraço"
+  },
+  {
+   "n": "064",
+   "c": "blackwork",
+   "t": "Mulher no medalhão"
+  },
+  {
+   "n": "024",
+   "c": "oriental",
+   "t": "Oni no círculo"
+  },
+  {
+   "n": "135",
+   "c": "blackwork",
+   "t": "Espantalho"
+  },
+  {
+   "n": "128",
+   "c": "oriental",
+   "t": "Peito oriental"
+  },
+  {
+   "n": "173",
+   "c": "blackwork",
+   "t": "Besouro chifrudo"
+  },
+  {
+   "n": "035",
+   "c": "oriental",
+   "t": "Crisântemo no braço"
+  },
+  {
+   "n": "079",
+   "c": "blackwork",
+   "t": "Escorpião na mão"
+  },
+  {
+   "n": "164",
+   "c": "oriental",
+   "t": "Oni e caveira"
+  },
+  {
+   "n": "168",
+   "c": "blackwork",
+   "t": "Virgem Maria"
+  },
+  {
+   "n": "119",
+   "c": "oriental",
+   "t": "Caveira e serpente"
+  },
+  {
+   "n": "148",
+   "c": "blackwork",
+   "t": "Rosto e engrenagens"
+  },
+  {
+   "n": "091",
+   "c": "oriental",
+   "t": "Crisântemo e folhas"
+  },
+  {
+   "n": "152",
+   "c": "blackwork",
+   "t": "Rosa"
+  },
+  {
+   "n": "137",
+   "c": "oriental",
+   "t": "Elmo e caveira"
+  },
+  {
+   "n": "123",
+   "c": "blackwork",
+   "t": "Mulher e serpente"
+  },
+  {
+   "n": "037",
+   "c": "oriental",
+   "t": "Máscara e flor"
+  },
+  {
+   "n": "176",
+   "c": "blackwork",
+   "t": "Pirata"
+  },
+  {
+   "n": "170",
+   "c": "oriental",
+   "t": "Polvo"
+  },
+  {
+   "n": "102",
+   "c": "blackwork",
+   "t": "Aranha no peito"
+  },
+  {
+   "n": "047",
+   "c": "oriental",
+   "t": "Gato e katana"
+  },
+  {
+   "n": "157",
+   "c": "blackwork",
+   "t": "Adaga no peito"
+  },
+  {
+   "n": "146",
+   "c": "oriental",
+   "t": "Samurai"
+  },
+  {
+   "n": "162",
+   "c": "blackwork",
+   "t": "Caveira"
+  },
+  {
+   "n": "093",
+   "c": "oriental",
+   "t": "Crisântemo escuro"
+  },
+  {
+   "n": "160",
+   "c": "blackwork",
+   "t": "Ornamental"
+  }
+ ],
+ "fech": [
+  {
+   "n": "023",
+   "t": "Carpa nas ondas",
+   "l": "costas"
+  },
+  {
+   "n": "051",
+   "t": "Deus do mar",
+   "l": "braço fechado"
+  },
+  {
+   "n": "045",
+   "t": "Caveira",
+   "l": "costas"
+  },
+  {
+   "n": "031",
+   "t": "Polvo e ondas",
+   "l": "braço fechado"
+  },
+  {
+   "n": "117",
+   "t": "Ornamental",
+   "l": "costas"
+  },
+  {
+   "n": "026",
+   "t": "Dragão e carpa",
+   "l": "braço fechado"
+  },
+  {
+   "n": "095",
+   "t": "Oriental",
+   "l": "braço e peito"
+  },
+  {
+   "n": "092",
+   "t": "Ondas e flores",
+   "l": "braço e costela"
+  }
+ ],
+ "spades": [
+  {
+   "n": "216",
+   "num": "001"
+  },
+  {
+   "n": "210",
+   "num": "002"
+  },
+  {
+   "n": "208",
+   "num": "003"
+  },
+  {
+   "n": "202",
+   "num": "005"
+  },
+  {
+   "n": "192",
+   "num": "006"
+  },
+  {
+   "n": "183",
+   "num": "008"
+  },
+  {
+   "n": "182",
+   "num": "009"
+  },
+  {
+   "n": "172",
+   "num": "010"
+  },
+  {
+   "n": "155",
+   "num": "011"
+  }
+ ],
+ "cob": [
+  {
+   "a": "cob01",
+   "b": "cob03",
+   "t": "Caveira e serpente"
+  },
+  {
+   "a": "cob08",
+   "b": "cob09",
+   "t": "Carneiro"
+  },
+  {
+   "a": "cob10",
+   "b": "cob11",
+   "t": "Besouro"
+  }
+ ],
+ "mundo": [
+  {
+   "i": 5,
+   "l": "Copacabana",
+   "o": "Rio de Janeiro"
+  },
+  {
+   "i": 6,
+   "l": "Venice Beach",
+   "o": "Los Angeles, EUA"
+  },
+  {
+   "i": 7,
+   "l": "Muralha da China",
+   "o": "Pequim"
+  },
+  {
+   "i": 9,
+   "l": "Salvador",
+   "o": "Bahia"
+  }
+ ]
+}
